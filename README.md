@@ -43,8 +43,10 @@ The difference in the attenuator settings gives the ration of the power coupled 
 Isolation measurement (Tabulation)
 
 Measurement of power division (Tabulation)
+<img width="1599" height="640" alt="WhatsApp Image 2026-05-30 at 1 49 01 PM" src="https://github.com/user-attachments/assets/5a8b8f9d-0162-44b7-9be6-b40076f8e0e8" />
 
 ## Analysis of Results: (Write your own)
+<img width="1433" height="554" alt="WhatsApp Image 2026-05-30 at 1 49 11 PM" src="https://github.com/user-attachments/assets/d7fbc309-f3f3-413d-95e1-7739bc75b7af" />
 
 (Include sample calculations/Display/plot/typical graph)
 
@@ -57,3 +59,4 @@ Isolation between E and H arms (dB) = (A1 – A2) dB Coupling between collinear 
 • Check the connections before switching on the kit. • Connections should be done properly. • Observation should be taken properly.
 
 ## Result:
+The Magic Tee correctly demonstrated sum and difference power behavior, with higher power at the sum port and reduced or null power at the difference port, validating its proper operation.
